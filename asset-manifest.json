@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/pokeapp/static/css/main.e6c13ad2.css",
+    "main.js": "/pokeapp/static/js/main.d26729d8.js",
+    "static/js/787.af81a24e.chunk.js": "/pokeapp/static/js/787.af81a24e.chunk.js",
+    "static/media/togepi.png": "/pokeapp/static/media/togepi.9278fc23b8697ff87680.png",
+    "static/media/psyduck.png": "/pokeapp/static/media/psyduck.45cd1ad516f0413dbbdf.png",
+    "static/media/pokeball2.svg": "/pokeapp/static/media/pokeball2.5d26c288a08a07c28ff993c1315facf5.svg",
+    "index.html": "/pokeapp/index.html",
+    "static/media/search.svg": "/pokeapp/static/media/search.dc6defa609cd8e35a158b9fca90cb1c8.svg",
+    "main.e6c13ad2.css.map": "/pokeapp/static/css/main.e6c13ad2.css.map",
+    "main.d26729d8.js.map": "/pokeapp/static/js/main.d26729d8.js.map",
+    "787.af81a24e.chunk.js.map": "/pokeapp/static/js/787.af81a24e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d26729d8.js"
+  ]
+}
