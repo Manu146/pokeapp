@@ -85,10 +85,10 @@ export const CardBody = styled.div`
   border: 4px solid rgba(255, 255, 255, 0.5);
   overflow: hidden;
   transform-style: preserve-3d;
-  background-size: 200% 200%;
   background: ${(props) => typeBg[props.type]};
+  background-size: 200% 200%;
   transition: transform 0.2s ease-out;
-  animation: ${bgAnimation} 0.2s ease infinite;
+  animation: ${bgAnimation} 3s ease infinite;
   & h3 {
     margin-top: 0.5rem;
     font-size: 1.25rem;
